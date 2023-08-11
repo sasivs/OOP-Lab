@@ -1,0 +1,10 @@
+*.7z
+oop.docx
+minor1_*\.PNG
+SeleniumAutomation/
+practice/
+.metadata
+**/.git/
+19-01-2022/sample.java
+*.docx
+*.pdf
